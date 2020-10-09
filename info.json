@@ -1,22 +1,22 @@
 {
-  "name": "Algorand",
-  "website": "http://algorand.foundation",
-  "source_code": "https://github.com/algorand",
-  "white_paper": "https://www.algorand.com/resources/white-papers/",
-  "short_description": "Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty. Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security.",
-  "description": "Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty. Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security.",
+  "name": "Ethereum",
+  "website": "https://ethereum.org/",
+  "source_code": "https://github.com/ethereum",
+  "white_paper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+  "short_description": "Open source platform to write and distribute decentralized applications.",
+  "description": "Open source platform to write and distribute decentralized applications.",
   "socials": [
     {
       "name": "Twitter",
-      "url": "https://twitter.com/AlgoFoundation",
-      "handle": "AlgoFoundation"
+      "url": "https://twitter.com/ethereum",
+      "handle": "ethereum"
     },
     {
       "name": "Reddit",
-      "url": "https://www.reddit.com/r/AlgorandOfficial",
-      "handle": "AlgorandOfficial"
+      "url": "https://www.reddit.com/r/ethereum",
+      "handle": "ethereum"
     }
   ],
-  "explorer": "https://algoexplorer.io/",
-  "research": "https://research.binance.com/en/projects/algorand"
+  "explorer": "https://etherscan.io/",
+  "research": "https://research.binance.com/en/projects/ethereum"
 }
