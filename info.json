@@ -1,22 +1,22 @@
 {
-  "name": "Aeternity",
-  "website": "https://aeternity.com",
-  "source_code": "https://github.com/aeternity",
-  "white_paper": "https://github.com/aeternity/white-paper/blob/master/paper.pdf",
-  "short_description": "Aeternity is a blockchain platform with turing complete smart contracts. The platform implemented decentralized oracles to make it possible for decentralized applications to use real world data.",
-  "description": "Aeternity (AE) is a blockchain platform that focuses on high bandwidth transacting, purely-functional smart contracts, and decentralized oracles. It was founded in 2017, and seeks to eliminate inefficiencies in the crypto market by increasing scalability of smart contracts and dApps, sharding, and off-chain contract execution. The Turing-complete smart contracts on the Aeternity chain allow for transaction execution without third parties or intermediaries. Aeternity also has state channels to enable off-chain smart contract settlements which only touch the blockchain should a disagreement in the contract arise, acting as a self-arbitrating crypto court. The Aeternity blockchain is also built upon state-of-the-art cryptographic data structures which give rise to robust efficiency, strong security, and the elimination “single point of failure” (SPOF) issues.",
+  "name": "Aion",
+  "website": "https://theoan.com",
+  "source_code": "https://github.com/aionnetwork",
+  "white_paper": "https://aion.network/developers/#whitepapers",
+  "short_description": "The Aion blockchain addresses the scalabilty problem. It has a bridging mechanism that makes inter-blockchain communication with data and value possible. The Aion blockchain also addresses the scalability problem with its virtual machine and enabling of applications to establish a multiple chain connection.",
+  "description": "Aion is the digital asset of The Open Application Network. Aion is used to secure and access The OAN. As a public infrastructure, a global community of individuals, software companies, and institutions secure and maintain the operations of The OAN. These critical functions are enabled and incentivized using Aion.\r\nThe Open Application Network solves the unintended consequences of platform economies. The OAN is an open source public infrastructure for the creation and hosting of Open Apps. Open Apps are programs that put users back in control and are universally accessible across platforms. The OAN is built on open standards and is owned by everyone that uses it.",
   "socials": [
     {
       "name": "Twitter",
-      "url": "https://twitter.com/aeternity",
-      "handle": "aeternity"
+      "url": "https://twitter.com/Aion_OAN",
+      "handle": "Aion_OAN"
     },
     {
       "name": "Reddit",
-      "url": "https://www.reddit.com/r/Aeternity",
-      "handle": "Aeternity"
+      "url": "https://reddit.com/r/AionNetwork",
+      "handle": "AionNetwork"
     }
   ],
-  "explorer": "https://www.aeknow.org/",
-  "research": "https://research.binance.com/en/projects/aeternity"
+  "explorer": "https://mainnet.aion.network",
+  "research": "https://research.binance.com/en/projects/aion"
 }
